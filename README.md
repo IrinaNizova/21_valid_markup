@@ -1,6 +1,6 @@
 # Site of Real Estate Agency
 
-[TODO. There will be project description]
+This site is about company "Твой Дом". You can look it on https://irinanizova.github.io/21_valid_markup/
 
 # Project Goals
 
